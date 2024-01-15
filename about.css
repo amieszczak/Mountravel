@@ -1,0 +1,24 @@
+* {
+  text-decoration: none;
+}
+.title-section-about {
+  background-image: url("img/about-title.png");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+  width: 100%;
+  height: 900px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.title-section-about h1 {
+  color: #fff;
+}
+.title-section-about p {
+  color: #fff;
+  font-weight: 700;
+  text-align: center;
+}
